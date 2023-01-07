@@ -61,4 +61,4 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1796-second-largest-dig
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0884-uncommon-words-from-two-sentences
 
 ### 20. C019 - Valid Anagram
-https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0884-uncommon-words-from-two-sentences
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0242-valid-anagram
