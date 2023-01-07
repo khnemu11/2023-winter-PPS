@@ -38,3 +38,6 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0268-missing-number
 
 ### C011 - Destination City
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1436-destination-city
+
+### C012 - Find Lucky Integer in an Array
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1394-find-lucky-integer-in-an-array
