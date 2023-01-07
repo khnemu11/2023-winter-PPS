@@ -53,3 +53,7 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0929-unique-email-addre
 
 ### 17. C016 - Linked List Cycle
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0141-linked-list-cycle
+
+### 18. C017 - Second Largest Digit in a String
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1796-second-largest-digit-in-a-string
+
