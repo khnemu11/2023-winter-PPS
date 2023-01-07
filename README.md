@@ -33,6 +33,8 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0500-keyboard-row
 ### C009 - Longest Palindrome
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0409-longest-palindrome
 
+### C010 - Distribute Candies
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0575-distribute-candies
 ### C010 - Missing Number
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0268-missing-number
 
