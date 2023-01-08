@@ -67,3 +67,7 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0242-valid-anagram
 
 ### 1. C20 - Roman to Integer
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0013-roman-to-integer
+
+### 2. C21 - Two City Scheduling
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1029-two-city-scheduling
+
