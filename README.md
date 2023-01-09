@@ -83,5 +83,5 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0394-decode-string
 ### 6. C047 - Decode String
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0394-decode-string
 
-### 6. C048 - Next Greater Element II
+### 7. C048 - Next Greater Element II
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0503-next-greater-element-ii
