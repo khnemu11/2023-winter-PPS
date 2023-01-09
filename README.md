@@ -76,3 +76,6 @@ https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Gold/
 
 ### 4. C042 - ZigZag Conversion
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0006-zigzag-conversion
+
+### 5. C047 - Decode String
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0394-decode-string
