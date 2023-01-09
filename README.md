@@ -65,11 +65,14 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0242-valid-anagram
 
 ## 3주차
 
-### 1. C20 - Roman to Integer
+### 1. C020 - Roman to Integer
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0013-roman-to-integer
 
-### 2. C21 - Two City Scheduling
+### 2. C021 - Two City Scheduling
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1029-two-city-scheduling
 
-### 2. C31 - 다항 함수의 적분
+### 3. C031 - 다항 함수의 적분
 https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Gold/17214.%E2%80%85%EB%8B%A4%ED%95%AD%E2%80%85%ED%95%A8%EC%88%98%EC%9D%98%E2%80%85%EC%A0%81%EB%B6%84
+
+### 4. C042 - ZigZag Conversion
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0006-zigzag-conversion
