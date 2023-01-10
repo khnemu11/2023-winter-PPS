@@ -80,8 +80,15 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0006-zigzag-conversion
 ### 5. C047 - Decode String
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0394-decode-string
 
-### 6. C047 - Decode String
-https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0394-decode-string
-
-### 7. C048 - Next Greater Element II
+### 6. C048 - Next Greater Element II
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0503-next-greater-element-ii
+
+### 7. C059 - Spiral Matrix
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0054-spiral-matrix
+
+### 8. C053 - Remove All Adjacent Duplicates in String II
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii
+
+### 9. C054 - Reverse Substrings Between Each Pair of Parentheses
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses
+
