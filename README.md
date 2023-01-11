@@ -92,3 +92,14 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1209-remove-all-adjacen
 ### 9. C054 - Reverse Substrings Between Each Pair of Parentheses
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses
 
+### 10. C060 - Pancake Sorting
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0969-pancake-sorting
+
+### 11. C065 - Insertion Sort List
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0147-insertion-sort-list
+
+### 12. C074 - Search in Rotated Sorted Array II
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0081-search-in-rotated-sorted-array-ii
+
+### 13. C075 - Search in Rotated Sorted Array
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0033-search-in-rotated-sorted-array
