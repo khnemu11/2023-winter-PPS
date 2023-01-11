@@ -1,6 +1,70 @@
 # 2023-winter-PPS
 2023년 한동 겨울학기 PPS 통합 레포
 
+
+## 1주차
+
+## 1. B003 - Sum of left leaves
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0404-sum-of-left-leaves
+
+## 2. B004 - Symmetric Tree
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0101-symmetric-tree
+
+## 3. B005 - Two Sum IV - Input is a BST
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0653-two-sum-iv-input-is-a-bst
+
+## 4. B007 - Binary Search
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0704-binary-search
+
+## 5. B008 - Search Insert Position
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0035-search-insert-position
+
+## 6. B010 - Diameter of Binary Tree
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0543-diameter-of-binary-tree
+
+## 7. B013 - 물통
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Gold/2251.%E2%80%85%EB%AC%BC%ED%86%B5
+
+## 8. B015 - 점프점프
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/14248.%E2%80%85%EC%A0%90%ED%94%84%E2%80%85%EC%A0%90%ED%94%84
+
+## 9. B018 - Path Sum
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0112-path-sum
+
+## 10. B020 - 숫자판 점프
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/2210.%E2%80%85%EC%88%AB%EC%9E%90%ED%8C%90%E2%80%85%EC%A0%90%ED%94%84
+
+## 11. B021 - Binary Tree Inorder Traversal
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0094-binary-tree-inorder-traversal
+
+## 12. B022 - Binary Tree Postorder Traversal
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0145-binary-tree-postorder-traversal
+
+## 13. B023 - Kth Largest Element in a Stream
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0703-kth-largest-element-in-a-stream
+
+## 14. B030 - Maximize Sum Of Array After K Negations
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1005-maximize-sum-of-array-after-k-negations
+
+## 15. B031 - 라디오
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/3135.%E2%80%85%EB%9D%BC%EB%94%94%EC%98%A4
+
+## 16. B032 - 이장님 초대
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/9237.%E2%80%85%EC%9D%B4%EC%9E%A5%EB%8B%98%E2%80%85%EC%B4%88%EB%8C%80
+
+## 17. B033 - 전자레인지
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10162.%E2%80%85%EC%A0%84%EC%9E%90%EB%A0%88%EC%9D%B8%EC%A7%80
+
+## 18. B034 - 체육복
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/42862.%E2%80%85%EC%B2%B4%EC%9C%A1%EB%B3%B5
+
+## 19. B037 - 방탈출
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/15729.%E2%80%85%EB%B0%A9%ED%83%88%EC%B6%9C
+
+## 20. D004 - 키로거
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/5397.%E2%80%85%ED%82%A4%EB%A1%9C%EA%B1%B0
+
+
 ## 2주차
 
 ### 1. C085 - 좋은 수열
