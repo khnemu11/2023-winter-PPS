@@ -167,3 +167,6 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0081-search-in-rotated-
 
 ### 13. C075 - Search in Rotated Sorted Array
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0033-search-in-rotated-sorted-array
+
+### 14. D007 - Median of Two Sorted Arrays
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0004-median-of-two-sorted-arrays
