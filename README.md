@@ -170,3 +170,15 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0033-search-in-rotated-
 
 ### 14. D007 - Median of Two Sorted Arrays
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0004-median-of-two-sorted-arrays
+
+### 15. B040 - DNA 발견
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Gold/2806.%E2%80%85DNA%E2%80%85%EB%B0%9C%EA%B2%AC
+
+### 16. B041- Maximum 69 Number
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1323-maximum-69-number
+
+### 17. B042 - Split a String in Balanced Strings
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1221-split-a-string-in-balanced-strings
+
+### 18. B043 - Happy Number
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0202-happy-number
