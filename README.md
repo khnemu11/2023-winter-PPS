@@ -182,3 +182,6 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1221-split-a-string-in-
 
 ### 18. B043 - Happy Number
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0202-happy-number
+
+### 19. B075 - 달나라 토끼를 위한 구매대금 지불 도우미
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/17212.%E2%80%85%EB%8B%AC%EB%82%98%EB%9D%BC%E2%80%85%ED%86%A0%EB%81%BC%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%EA%B5%AC%EB%A7%A4%EB%8C%80%EA%B8%88%E2%80%85%EC%A7%80%EB%B6%88%E2%80%85%EB%8F%84%EC%9A%B0%EB%AF%B8
