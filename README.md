@@ -192,6 +192,11 @@ https://github.com/khnemu11/codingNotLeetCode/tree/main/%ED%94%84%EB%A1%9C%EA%B7
 
 ## 4주차
 
+
+
 ### 1. B077 - 피보나치 수
 https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4150.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98
+
+### 2. B076 - 가장 큰 감소 부분 수열
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/17216.%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%ED%81%B0%E2%80%85%EA%B0%90%EC%86%8C%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EC%88%98%EC%97%B4
 
