@@ -185,3 +185,13 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0202-happy-number
 
 ### 19. B075 - 달나라 토끼를 위한 구매대금 지불 도우미
 https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/17212.%E2%80%85%EB%8B%AC%EB%82%98%EB%9D%BC%E2%80%85%ED%86%A0%EB%81%BC%EB%A5%BC%E2%80%85%EC%9C%84%ED%95%9C%E2%80%85%EA%B5%AC%EB%A7%A4%EB%8C%80%EA%B8%88%E2%80%85%EC%A7%80%EB%B6%88%E2%80%85%EB%8F%84%EC%9A%B0%EB%AF%B8
+
+### 20. B074 - 콜라츠 추측
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv1/12943.%E2%80%85%EC%BD%9C%EB%9D%BC%EC%B8%A0%E2%80%85%EC%B6%94%EC%B8%A1
+
+
+## 4주차
+
+### 1. B077 - 피보나치 수
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Bronze/4150.%E2%80%85%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%E2%80%85%EC%88%98
+
