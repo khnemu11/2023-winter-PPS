@@ -206,3 +206,6 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0110-balanced-binary-tr
 
 ### 5. B037 - 스네이크버드
 https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silver/16435.%E2%80%85%EC%8A%A4%EB%84%A4%EC%9D%B4%ED%81%AC%EB%B2%84%EB%93%9C
+
+### 6. B065 - 부분 합
+https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9
