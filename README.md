@@ -1,6 +1,6 @@
 # 2023-winter-PPS
 2023년 한동 겨울학기 PPS 통합 레포
-
+문제 목록 : https://docs.google.com/spreadsheets/d/1Zucp52z3DDIf-qyNWnLQpO7AqEQck6rFl4m8X1mb2EI/edit#gid=1549943930
 
 ## 1주차
 
@@ -209,3 +209,9 @@ https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Silve
 
 ### 6. B065 - 부분 합
 https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Gold/1806.%E2%80%85%EB%B6%80%EB%B6%84%ED%95%A9
+
+### 7. B011 - Merge Two Binary Trees
+
+### 8. B016 - Increasing Order Search Tree
+
+### 9. B017 - Invert Binary Tree
