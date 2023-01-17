@@ -228,4 +228,4 @@ https://github.com/khnemu11/codingNotLeetCode/tree/main/%EB%B0%B1%EC%A4%80/Gold/
 
 ### 13. B068 - Is Subsequence
 
-
+### 14. B045 - Palindrome Linked List
