@@ -235,9 +235,13 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0392-is-subsequence
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0234-palindrome-linked-list
 
 ### 15. C001- Sum of All Subset XOR Totals
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1863-sum-of-all-subset-xor-totals
 
 ### 16. C002- Binary Watch
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0401-binary-watch
 
 ### 17. C003- Complement of Base 10 Integer
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1009-complement-of-base-10-integer
 
 ### 18. C020 - 약수의 개수와 덧셈
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1009-complement-of-base-10-integer
