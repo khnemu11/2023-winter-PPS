@@ -239,3 +239,5 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0234-palindrome-linked-
 ### 16. C002- Binary Watch
 
 ### 17. C003- Complement of Base 10 Integer
+
+### 18. C020 - 약수의 개수와 덧셈
