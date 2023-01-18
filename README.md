@@ -233,3 +233,9 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0392-is-subsequence
 
 ### 14. B045 - Palindrome Linked List
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0234-palindrome-linked-list
+
+### 15. C001- Sum of All Subset XOR Totals
+
+### 16. C002- Binary Watch
+
+### 17. C003- Complement of Base 10 Integer
