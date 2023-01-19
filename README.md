@@ -247,7 +247,10 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1009-complement-of-base
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1009-complement-of-base-10-integer
 
 ### 19. B046 - Flood Fill
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0733-flood-fill
 
 ### 20. B047 - Island Perimeter
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0463-island-perimeter
 
 ### 21. B086 - Duplicate Emails
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0182-duplicate-emails
