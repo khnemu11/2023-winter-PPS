@@ -250,3 +250,4 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/1009-complement-of-base
 
 ### 20. B047 - Island Perimeter
 
+### 21. B086 - Duplicate Emails
