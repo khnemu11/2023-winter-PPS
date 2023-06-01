@@ -1,5 +1,6 @@
 # 2023-winter-PPS
 2023년 한동 겨울학기 PPS 통합 레포
+
 문제 목록 : https://docs.google.com/spreadsheets/d/1Zucp52z3DDIf-qyNWnLQpO7AqEQck6rFl4m8X1mb2EI/edit#gid=1549943930
 
 ## 1주차
@@ -17,7 +18,7 @@ https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0653-two-sum-iv-input-i
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0704-binary-search
 
 ### 5. B008 - Search Insert Position
-https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0035-search-insert-position
+https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0035-search-nsert-position
 
 ### 6. B010 - Diameter of Binary Tree
 https://github.com/khnemu11/codingOnlyLeetCode/tree/main/0543-diameter-of-binary-tree
